@@ -2,10 +2,6 @@
   "Code": "CrtCustomer360App",
   "Packages": [
     {
-      "UId": "5ecd8acf-895d-4853-9a02-975808b1635b",
-      "Name": "UsrCrtCustomer360App_wvllcye"
-    },
-    {
       "UId": "b2babc03-4751-4cd7-b39c-6c6183c6ef78",
       "Name": "UsrRealty"
     }
